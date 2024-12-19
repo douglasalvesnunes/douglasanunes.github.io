@@ -1,0 +1,14 @@
+{
+    "recommendations": [
+        "dbaeumer.vscode-eslint",      // Linter para JavaScript
+        "esbenp.prettier-vscode",      // Formatação de código
+        "ritwickdey.liveserver",       // Live Server para pré-visualização do site
+        "streetsidesoftware.code-spell-checker", // Verificador ortográfico
+        "ritwickdey.liveserver",
+        "ecmel.vscode-html-css",
+        "pranaygp.vscode-css-peek",
+        "formulahendry.auto-rename-tag",
+        "christian-kohler.path-intellisense",
+        "coenraads.bracket-pair-colorizer-2"
+    ]
+}
